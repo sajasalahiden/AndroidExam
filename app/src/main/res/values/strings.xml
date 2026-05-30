@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Exam 2</string>
+
+    <string name="login_title">Welcome\nPlease Log In</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_password">Password (min. 6 characters)</string>
+    <string name="validation_hint">Enter a valid email and at least 6-character password to enable Login.</string>
+    <string name="btn_login">Login</string>
+    <string name="snackbar_exit_message">Press back again to exit</string>
+
+    <string name="mode_activity_title">Mode Activity</string>
+    <string name="btn_set_mode">Set Mode</string>
+
+    <string name="tab_first">First</string>
+    <string name="tab_second">Second</string>
+    <string name="tab_third">Third</string>
+
+    <string-array name="tab_names">
+        <item>First Tab</item>
+        <item>Second Tab</item>
+        <item>Third Tab</item>
+    </string-array>
+
+    <string name="mode_light">Light</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_system">System</string>
+
+</resources>
